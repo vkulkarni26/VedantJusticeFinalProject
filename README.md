@@ -16,3 +16,9 @@ Each chatbot that is featured as a personality, allowing you to not only talk to
 # How to use bot
 1. Using default bot: Select which bot you want to use and then enter a prompt for it related to any subject; you can assign a task, extract information, etc
 2. Customize a bot: Assign it an 'id' to identify it by, then give it a bit more detailed description of its personanlity before specifying the images you would like it to create (not exactly what images, but the style of them)
+
+# Running the script
+Run in VS Code Terminal:
+python final_banter_bot.py
+If that does not work, try
+python3 final_banter_bot.py
