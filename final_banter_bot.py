@@ -4,7 +4,7 @@ from PyQt5.QtCore import Qt, QUrl, QTimer
 from PyQt5.QtGui import QPixmap, QImage
 from PyQt5.QtNetwork import QNetworkAccessManager, QNetworkRequest, QNetworkReply
 import sys
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key = "OPENAI_API_KEY")
 
 
 class ChatApp(QMainWindow):
